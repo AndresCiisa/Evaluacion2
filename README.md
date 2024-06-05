@@ -5,7 +5,7 @@ Evaluacion Energy &amp; Water
 Integrantes: 
               Franco Vasquez sec (70)
               Lucas Pinto sec (71)
-              Claudio Cuerriel sec (71)
+              Claudio Curriel sec (71)
 
 Seccion: 70 & 71 
 Profesor: Sebastian Cabezas
